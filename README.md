@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AgileMethodsGroup10&label=Profile%20views&color=0e75b6&style=flat" alt="AgileMethodsGroup10" /> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 Currently we are taking **Agile_Methods**
 
-- 📫 How to reach Us **nanabajustoo@gmail.com**
+- 📫 How to reach Us **agilemethods.group10@gmail.com**
 
 - ⚡ Fun fact **We think Our team is the best**
 
