@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Justice</h1>
-<h3 align="center">A passionate developer from Ghana</h3>
+<h1 align="center">Hi 👋, This is Agile_methods_Group10</h1>
+<h3 align="center">A passionate Tech team at University of Ghana, Department of Computer Science.  Majoring in Information Technology </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=na2yaw&label=Profile%20views&color=0e75b6&style=flat" alt="na2yaw" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AgileMethodsGroup10&label=Profile%20views&color=0e75b6&style=flat" alt="AgileMethodsGroup10" /> </p>
 
 - 🌱 I’m currently learning **python**
 
-- 📫 How to reach me **nanabajustoo@gmail.com**
+- 📫 How to reach Us **nanabajustoo@gmail.com**
 
-- ⚡ Fun fact **I think am funny**
+- ⚡ Fun fact **We think Our team is the best**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Us:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/asare-justice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asare-justice/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20116495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20116495" height="30" width="40" /></a>
@@ -21,4 +21,4 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Na2yaw&theme=dark&border_radius=5.4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AgileMethodsGroup10&theme=dark&border_radius=5.4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
